@@ -29,7 +29,7 @@ url: "https://chisom-obasih.github.io" # the base hostname & protocol for your s
 github_username:  chisom-obasih
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
